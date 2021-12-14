@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codesumit11
 - 👀 I’m interested in Science & Technology
-- 🌱 I’m currently learning Python and Web technologies
+- 🌱 I’m currently learning Python and Web Technologies
 - 💞️ I’m looking to collaborate on Python Projects
 - 📫 How to reach me kistcse.sumit@gmail.com
 
