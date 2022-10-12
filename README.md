@@ -2,7 +2,7 @@
 - 👀 I’m interested in Science & Technology
 - 🌱 I’m currently learning Python and Data Analysis
 - 💞️ I’m looking to collaborate on Python Projects
-- 📫 How to reach me kistcse.sumit@gmail.com
+- 📫 How to reach me skspanchetdam@gmail.com
 
 <!---
 codesumit11/codesumit11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
